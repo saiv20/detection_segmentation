@@ -20,7 +20,7 @@ The results observed are as follows:
 
 The unet/ folder contains the files required to perform road segmentation using UNet. Run test.py to perform segmentation. The results are observed as follows:
 
-![Img4](https://github.com/saiv20/detection_segmentation/blob/main/unet/KITTI-RoadSeg-master/output/overlay_uu_000090.png)
+![Img4](https://github.com/saiv20/detection_segmentation/blob/main/unet/output/overlay_uu_000090.png)
 
 
 
